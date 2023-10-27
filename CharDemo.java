@@ -15,8 +15,8 @@ public class CharDemo
 		  char var2='\u00AC';
 		  System.out.println(var2);
 		  
-                                    int a='A';
-                                    System.out.println(a);
+                  int a='A';
+                  System.out.println(a);
 	
 	}
 	
